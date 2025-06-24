@@ -4,40 +4,39 @@ DDoS (Distributed Denial of Service) adalah jenis serangan siber yang bertujuan 
 # ⚙️ Instalasi
 
 ```
-pkg update && pkg upgrade -y
+
 ```
 ```
-pkg install python -y
+
 ```
 ```
-pkg install figlet -y
+
 ```
 ```
-pkg install lolcat -y
+```
+```
+
 ```
 ```
 pkg install git -y
 ```
 ```
-pkg install git -y
+
 ```
 ```
-git clone https://github.com/Arby-Hex/ddos
+
 ```
 ```
-cd ddos
+
 ```
 ```
-pip install rich
+
 ```
 ```
-pip install requests
+
 ```
 ```
-pip install aiohttp
-```
-```
-python ddos.pyc
+kontol 
 ```
 
 # ⚠️ PERINGATAN PENTING
@@ -53,7 +52,7 @@ Saya tidak bertanggung jawab atas segala dampak yang terjadi pada perangkat kamu
 
 🐢 Perangkat Menjadi Lambat/Lag
 
-📡 Koneksi Internet Terputus (jika tidak cukup kuat)
+kontol kontol owowowk 
 
 ____________________________________________________
 
